@@ -2,7 +2,7 @@ export {
   encode,
   decode,
 } from "https://denopkg.com/chiefbiiko/std-encoding@v1.0.0/mod.ts";
-export { get } from "https://denopkg.com/yuta-imai/get-aws-config@update_env_treatment/mod.ts";
+export { get } from "https://denopkg.com/artoliukkonen/get-aws-config@update_env_treatment/mod.ts";
 export { hmac } from "https://denopkg.com/chiefbiiko/hmac@v1.0.2/mod.ts";
 export {
   toUint8Array as base64ToUint8Array,
